@@ -2,19 +2,12 @@
 <img src="https://i.imgur.com/VVaKgq9.png">
 Work In Progress.
 
-Patches
-
----------------------------------------------------------------------
-S&K Games And Related
----------------------------------------------------------------------
-S&K Aplication Version 0%
-Sonic Mania 100% May Be Buggy
-S3&K Application Version 0%
-Sonic Gems Collection 0%
-Sonic & Knuckles Collection 0%
+----------------------------------------------------------
+A S3&K Editor.
 
 
-----------------------------------------------------------------------
+v1.0d
+----------------------------------------------------------
 
 Report Bugs On Github.
 
