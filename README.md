@@ -6,7 +6,7 @@ Work In Progress.
 A S3&K Editor.
 
 
-v1.0d
+v1.1d
 ----------------------------------------------------------
 
 Report Bugs On Github.
